@@ -7,7 +7,7 @@
           👉 Find Maximum and Minimum of Array in minimum Comparison
 ### Day 3 👇
           👉  Kth smallest element
-	  👉  Sort an array of 0s, 1s and 2 
+	      👉  Sort an array of 0s, 1s and 2 
 
 	  
 	  
