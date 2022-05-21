@@ -1,8 +1,9 @@
 # 90-days-challenge
 90 days challenge for myself 
+## Topic 👉 Array 
 ### Day 1 👇
-### Topic 👉 Array
-    Solved Basic Question of array  
           👉 Reverse An Array
+### Day 1 👇
+          👉 Find Maximum and Minimum of Array in minimum Comparison
 	 
 	
