@@ -1,0 +1,73 @@
+/*Approch 2
+Using an extra array
+Time Complexity: O(n)
+Space Complexity: O(n);
+----------------------------------
+*/
+#include<bits/stdc++.h>
+using namespace std;
+ // } Driver Code Ends
+class Solution
+{
+    public:
+    void sort012(int a[], int n)
+    {
+        int j=0;
+        int temp[n];
+        for(int i=0;i<n;i++){
+            temp[i]=a[i];
+        }
+        
+        for(int i=0;i<n;i++){
+            if(temp[i]==0){
+                a[j]=temp[i];
+                j++;
+            }
+        }
+        
+        for(int i=0;i<n;i++){
+            if(temp[i]==1){
+                a[j]=temp[i];
+                j++;
+            }
+        }
+        
+        for(int i=0;i<n;i++){
+            if(temp[i]==2){
+                a[j]=temp[i];
+                j++;
+            }
+        }
+    }
+    
+};
+
+// { Driver Code Starts.
+int main() {
+
+    int t;
+    cin >> t;
+
+    while(t--){
+        int n;
+        cin >>n;
+        int a[n];
+        for(int i=0;i<n;i++){
+            cin >> a[i];
+        }
+
+        Solution ob;
+        ob.sort012(a, n);
+
+        for(int i=0;i<n;i++){
+            cout << a[i]  << " ";
+        }
+
+        cout << endl;
+        
+        
+    }
+    return 0;
+}
+
+  // } Driver Code Ends
