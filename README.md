@@ -8,6 +8,8 @@
 ### Day 3 👇
           👉  Kth smallest element
 	      👉  Sort an array of 0s, 1s and 2 
+### Day 4 👇
+	      👉 Move all negative elements to end
 
 	  
 	  
