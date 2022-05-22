@@ -1,0 +1,90 @@
+/*Approch 1
+Sort an array
+Time Complexity: O(n)
+Space Complexity: O(n);
+----------------------------------
+*/
+void segregateElements(int arr[],int n)
+{
+      
+      sort(arr,arr+n,greater<int>());
+
+}
+
+
+
+
+
+/* Approch 2
+Using Iteration over array
+Time Complexity: O(n)
+Space Complexity: O(n);
+----------------------------------
+*/
+
+void segregateElements(int arr[],int n)
+{
+      
+      int nums[n]; 
+      for(int i=0;i<n;i++){
+          nums[i]=arr[i];
+      }
+        
+      int j=0;
+      for(int i=0;i<n;i++){
+          if(nums[i]>=0){
+              arr[j]=nums[i];
+              j++;
+          }
+      }
+        
+      for(int i=0;i<n;i++){
+        if(nums[i]<0){
+          arr[j]=nums[i];
+              j++;
+          }
+      }
+
+}
+
+/* Approch 3
+ partition process of quicksort. 
+Time Complexity: O(n)
+Space Complexity: O(1);
+----------------------------------
+*/
+void segregateElements(int arr[],int n)
+    {
+      
+      int itr=0;
+      for(int jtr=0;jtr<n;jtr++){
+          if(arr[jtr]>0){
+              if(itr!=jtr)
+              swap(arr[itr],arr[jtr]);
+              itr++;
+          }
+      }
+       
+
+    }
+
+/* Approch 4
+Two Pointer Approach
+Time Complexity: O(n)
+Space Complexity: O(1);
+----------------------------------
+*/
+int left=0,right=n-1;
+      while(left<=right){
+          if(arr[left]>=0 && arr[right]>=0){
+              left++;
+          }else if(arr[left]<0 && arr[right]>0){
+              swap(arr[left],arr[right]);
+              left++;
+              right--;
+          }else if(arr[left]<0 && arr[right]<0){
+              right--;
+          }
+      }
+
+
