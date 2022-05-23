@@ -1,0 +1,49 @@
+/*Approch 1
+Union of two array Using Set 
+Time Complexity: O(m * log(m) + n * log(n))
+Space Complexity: O(m+n);
+----------------------------------
+*/
+
+int doUnion(int a[], int n, int b[], int m)  {
+        
+     map<int,int> mp;
+
+     for(int i=0;i<n;i++){
+         mp.insert({a[i],i});
+     }
+     
+     for(int i=0;i<m;i++){
+         mp.insert({b[i],i});
+     }
+     
+    return mp.size();
+}
+
+/* Approch 2
+Union of two array Using Map
+Time Complexity: O(m+n)
+Space Complexity: O(m+n);
+----------------------------------
+*/
+
+int doUnion(int a[], int n, int b[], int m)  {
+        
+     map<int,int> mp;
+
+     for(int i=0;i<n;i++){
+         mp.insert({a[i],i});
+     }
+     
+     for(int i=0;i<m;i++){
+         mp.insert({b[i],i});
+     }
+     
+    return mp.size();
+}
+
+
+
+
+
+
