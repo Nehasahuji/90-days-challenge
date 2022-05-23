@@ -10,6 +10,9 @@
 	      👉  Sort an array of 0s, 1s and 2 
 ### Day 4 👇
 	      👉 Move all negative elements to end
+### Day 5 👇
+              👉 Union of Two Arrays
+
 
 	  
 	  
