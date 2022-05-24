@@ -12,6 +12,9 @@
 	      👉 Move all negative elements to end
 ### Day 5 👇
           👉 Union of Two Arrays
+### Day 6 👇
+          👉 Cyclically rotate an array by one
+	      👉 Rotating an Array by d 
 
 
 	  
