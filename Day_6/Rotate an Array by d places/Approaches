@@ -1,0 +1,67 @@
+/* Approch 1
+Rotating an Array using two pointer approach
+Time Complexity: O(n*d)
+Space Complexity: O(1)
+----------------------------------
+*/
+void rotateByOne(int arr[],int n){
+        int i=0,j=n-1;
+        while(j!=i){
+            swap(arr[j],arr[i]);
+            j--;
+        }
+}
+void leftRotate(int arr[], int n, int d) {
+        // code here
+       while(d--){
+           rotateByOne(arr,n);
+       }
+        
+}
+
+/* Approch 2
+Rotating an Array using rotate array by 1
+Time Complexity: O(n*d)
+Space Complexity: O(1)
+----------------------------------
+*/
+
+void rotateByOne(int arr[],int n){
+        int temp=arr[0];
+        for(int i=0;i<n;i++){
+            arr[i]=arr[i+1];
+        }
+        
+        arr[n-1]=temp;
+    }
+void leftRotate(int arr[], int n, int d) {
+       while(d--){
+           rotateByOne(arr,n);
+  }
+        
+}
+
+/* Approch 3
+Rotating an Array  using reversal algorithm
+Time Complexity: O(n)
+Space Complexity: O(1)
+----------------------------------
+*/
+void reversArray(int arr[],int start,int end){
+        while(start<end){
+            int temp=arr[start];
+            arr[start]=arr[end];
+            arr[end]=temp;
+            start++;
+            end--;
+        }
+}
+void leftRotate(int arr[], int n, int d) {
+        // code here
+     reversArray(arr,0,d-1);
+     reversArray(arr,d,n-1);
+     reversArray(arr,0,n-1);
+        
+}
+
+
