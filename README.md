@@ -14,7 +14,9 @@
           👉 Union of Two Arrays
 ### Day 6 👇
           👉 Cyclically rotate an array by one
-	      👉 Rotating an Array by d 
+	      👉 Rotating an Array by d
+### Day 6 👇
+           👉 Minimize the Heights I
 
 
 	  
