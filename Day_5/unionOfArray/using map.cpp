@@ -1,6 +1,6 @@
 /*Approch 2
 Union of two array Using Map
-Time Complexity: OO(m+n).
+Time Complexity: O(m+n).
 Space Complexity: O(m+n);
 ----------------------------------
 */
