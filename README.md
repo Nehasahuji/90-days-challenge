@@ -15,8 +15,8 @@
 ### Day 6 👇
           👉 Cyclically rotate an array by one
 	      👉 Rotating an Array by d
-### Day 6 👇
-           👉 Minimize the Heights I
+### Day 7 👇
+          👉 Minimize the Heights I
 
 
 	  
