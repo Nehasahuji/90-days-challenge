@@ -17,6 +17,10 @@
 	      👉 Rotating an Array by d
 ### Day 7 👇
           👉 Minimize the Heights I
+### Day 8 👇
+          👉 Max and Second Max Element in array [3 Solutions]
+	  👉 Is array sorted [Iterative and Recursive solutions]
+
 
 
 	  
