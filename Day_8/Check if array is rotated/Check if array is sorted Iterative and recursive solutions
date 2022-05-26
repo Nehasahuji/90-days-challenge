@@ -1,0 +1,35 @@
+/* Check if array is sorted
+Time Complexity: O(n)
+we are iterating array in only once 
+Space Complexity: O(1)
+No extra space is required
+*/
+
+ bool arraySortedOrNot(int arr[], int n) {
+        for(int i=1;i<n;i++){
+            if(arr[i-1]>arr[i]){
+                return false;
+            }
+        }
+        
+        return true;
+    }
+
+
+/*Reursive Solution
+Time Complexity: O(n) 
+Auxiliary Space: O(n) for Recursion Call Stack.
+*/
+
+bool arraySortedOrNot(int arr[], int n) {
+        
+        if(n==1 || n == 0){
+            return true;
+        }
+        
+        if(arr[n-2]>arr[n-1]){
+            return false;
+        }
+        
+        arraySortedOrNot(arr,n-1);
+    }
