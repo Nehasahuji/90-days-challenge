@@ -20,6 +20,7 @@
 ### Day 8 👇
           👉 Max and Second Max Element in array [3 Solutions]
 	      👉 Is array sorted [Iterative and Recursive solutions]
+	      👉 Leaders in array[Naive and Efficient Solution]
 
 
 
