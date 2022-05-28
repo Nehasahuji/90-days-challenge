@@ -23,6 +23,9 @@
 ### Day 9 👇	       
 	      👉 Leaders in array[Naive and Efficient Solution]
 	      👉 Check if array is sorted and rotated
+### Day 10 👇	       
+	      👉 Missing Number
+
 
 
 
