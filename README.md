@@ -19,7 +19,8 @@
           👉 Minimize the Heights I
 ### Day 8 👇
           👉 Max and Second Max Element in array [3 Solutions]
-	      👉 Is array sorted [Iterative and Recursive solutions]
+	      👉 Is array sorted [Iterative and Recursive solution]
+### Day 9 👇	       
 	      👉 Leaders in array[Naive and Efficient Solution]
 	      👉 Check if array is sorted and rotated
 
