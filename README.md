@@ -24,7 +24,11 @@
 	      👉 Leaders in array[Naive and Efficient Solution]
 	      👉 Check if array is sorted and rotated
 ### Day 10 👇	       
-	      👉 Missing Number
+	      👉 Missing Number in sorted array
+### Day 11 👇	       
+	      👉 Best Time to Buy and Sell Stock
+	      👉 Maximum difference problem with order
+	
 
 
 
