@@ -28,7 +28,10 @@
 ### Day 11 👇	       
 	      👉 Best Time to Buy and Sell Stock
 	      👉 Maximum difference problem with order
-	
+### Day 12 👇	       
+	      👉 Two sum
+### Day 13 👇
+              👉 Three sum
 
 
 
