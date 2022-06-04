@@ -1,4 +1,39 @@
-  int trap(vector<int>& height) {
+/* Naive Solution
+Time Complexity O(n^2)
+Space Complexity O(1)
+*/
+
+int trap(vector<int>& height) {
+        int res=0;
+        int n=height.size(); 
+        for(int i=1;i<n-1;i++){
+            
+            int lmax=height[i];
+        
+            for(int j=0;j<i;j++){
+               lmax=max(lmax,height[j]); 
+            }
+            
+        
+            int rmax=height[i];
+            
+            for(int j=i+1;j<n;j++){
+                rmax=max(rmax,height[j]);
+            }
+            
+        res=res+min(lmax,rmax)-height[i];
+            
+        }
+        
+return res;
+
+/*Efficient Solution
+using DP
+Time Complexity O(n)
+Space Complexity O(1)
+*/
+
+int trap(vector<int>& height) {
         int n=height.size();
         int lmax[n];
         lmax[0]=height[0];
@@ -19,4 +54,43 @@
         }
         
         return res;
-    }
+ }
+ 
+/* Efficient Solution
+using two pointer approch
+Time Complexity O(n)
+Space Complexity O(1)
+*/
+
+int trap(vector<int>& height) {
+        
+        int res=0;
+        int size=height.size();
+        
+        int left=0,right=size-1;
+        int leftMax=0,rightMax=0;
+        
+        while(left<right){
+            if(height[left]<height[right]){
+               if(height[left]>=leftMax){
+                   leftMax=height[left];
+               } else{
+                   res+=leftMax-height[left];
+               }
+                
+              ++left;
+            }else{
+                if(height[right]>=rightMax){
+                    rightMax=height[right];
+                }else{
+                    res+=rightMax-height[right];
+                }
+                --right;
+            }
+            
+        }
+        return res;
+	}
+ 
+ 
+//also check solution using stack after completing stack part
