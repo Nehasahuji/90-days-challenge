@@ -38,10 +38,11 @@
 	     👉 Maximum Number of Words Found in Sentences
 ### Day 16 👇
 	     👉 Maximize Profit Best Time to Buy and Sell Stock II
+### Day 17 👇
+             👉 Max Consecutive ones
+             👉 Max Subarray Sum (4 Different Solutions
+	     👉 Majority Element part 1(element occure more than n/2 time)
+### Day 18 👇
+             👉 Majority Element 2(element occure more than n/3 times in array)
 
-
-	  
-	  
-	 
-	 
 	
