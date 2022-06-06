@@ -20,12 +20,36 @@ int majorityElement(int a[], int size)
       return -1;  
     }
 /*
-Approach 2: HashMap	
+/*
+Approach 3: Sorting the array	
+Time complexity : O(nlongn)
+Space complexity : O(1)
+*/
+
+int majorityElement(int a[], int size)
+    {
+      sort(a,a+size);
+      
+      int count=0;
+      for(int i=0;i<size;i++){
+          if(a[i]==a[size/2])
+            count++;
+      }
+      
+      if(count>(size/2))
+            return a[size/2];
+      else
+            return -1;
+    }
+/*
+Approach 3: HashMap	
 Time complexity : O(n)
 We iterate over nums once and make a constant time HashMap insertion on each iteration. Therefore, the algorithm runs in O(n)time.
 Space complexity : O(n)
 we are using map 
 */
+int majorityElement(int a[], int size)
+{
 map<int,int> mp;
       
       for(int i=0;i<size;i++){
@@ -39,3 +63,6 @@ map<int,int> mp;
       }
       
       return -1;
+}
+
+
