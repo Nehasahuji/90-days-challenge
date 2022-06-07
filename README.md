@@ -44,5 +44,9 @@
 	     👉 Majority Element part 1(element occure more than n/2 time)
 ### Day 18 👇
              👉 Majority Element 2(element occure more than n/3 times in array)
-
-	
+### Day 19: 👇
+	 👉 Pair with given sum in a sorted array
+### Day 20: 👇
+             👉 Subarray with given sum
+             👉 Largest sum subarray of size K containing consecutive elements
+        
