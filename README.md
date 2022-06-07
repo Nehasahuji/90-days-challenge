@@ -44,5 +44,8 @@
 	     👉 Majority Element part 1(element occure more than n/2 time)
 ### Day 18 👇
              👉 Majority Element 2(element occure more than n/3 times in array)
-
+### Day 19 👇
+             👉 Pair with given sum in a sorted array  
+	     👉 Two sum solution using hashMap
+	      
 	
