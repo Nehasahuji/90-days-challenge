@@ -41,12 +41,20 @@
 ### Day 17 👇
              👉 Max Consecutive ones
              👉 Max Subarray Sum (4 Different Solutions
-	     👉 Majority Element part 1(element occure more than n/2 time)
+	         👉 Majority Element part 1(element occure more than n/2 time)
 ### Day 18 👇
              👉 Majority Element 2(element occure more than n/3 times in array)
+<<<<<<< HEAD
 ### Day 19: 👇
 	 👉 Pair with given sum in a sorted array
 ### Day 20: 👇
              👉 Subarray with given sum
              👉 Largest sum subarray of size K containing consecutive elements
         
+=======
+### Day 19 👇
+             👉 Pair with given sum in a sorted array  
+	         👉 Two sum solution using hashMap
+	      
+	
+>>>>>>> 1f4331031664d0628b8a745c4a8a8b86a42b3226
