@@ -6,8 +6,8 @@
 ### Day 2 👇
           👉 Find Maximum and Minimum of Array in minimum Comparison
 ### Day 3 👇
-          👉  Kth smallest element
-	      👉  Sort an array of 0s, 1s and 2 
+          👉 Kth smallest element
+	      👉 Sort an array of 0s, 1s and 2 
 ### Day 4 👇
 	      👉 Move all negative elements to end
 ### Day 5 👇
@@ -29,32 +29,25 @@
 	      👉 Best Time to Buy and Sell Stock
 	      👉 Maximum difference problem with order
 ### Day 12 👇	       
-	      👉 Two sum
+	       👉 Two sum
 ### Day 13 👇
-              👉 Three sum
+           👉 Three sum
 ### Day 14 👇
-	     👉 Tapping rain water
+	       👉 Tapping rain water
 ### Day 15 👇
-	     👉 Maximum Number of Words Found in Sentences
+	       👉 Maximum Number of Words Found in Sentences
 ### Day 16 👇
-	     👉 Maximize Profit Best Time to Buy and Sell Stock II
+	       👉 Maximize Profit Best Time to Buy and Sell Stock II
 ### Day 17 👇
-             👉 Max Consecutive ones
-             👉 Max Subarray Sum (4 Different Solutions
-	         👉 Majority Element part 1(element occure more than n/2 time)
+            👉 Max Consecutive ones
+            👉 Max Subarray Sum (4 Different Solutions
+	        👉 Majority Element part 1(element occure more than n/2 time)
 ### Day 18 👇
-             👉 Majority Element 2(element occure more than n/3 times in array)
-<<<<<<< HEAD
+            👉 Majority Element 2(element occure more than n/3 times in array)
 ### Day 19: 👇
-	 👉 Pair with given sum in a sorted array
+	        👉 Pair with given sum in a sorted array
+	        👉 Two sum solution using hashMap
 ### Day 20: 👇
-             👉 Subarray with given sum
-             👉 Largest sum subarray of size K containing consecutive elements
-        
-=======
-### Day 19 👇
-             👉 Pair with given sum in a sorted array  
-	         👉 Two sum solution using hashMap
-	      
-	
->>>>>>> 1f4331031664d0628b8a745c4a8a8b86a42b3226
+            👉 Subarray with given sum
+            👉 Largest sum subarray of size K containing consecutive elements
+     
