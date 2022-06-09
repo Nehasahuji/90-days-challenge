@@ -50,4 +50,8 @@
 ### Day 20: 👇
             👉 Subarray with given sum
             👉 Largest sum subarray of size K containing consecutive elements
+### Day 21: 👇
+            👉 N-bonacci Numbers
+	        👉 Nth Tribonacci Number
+	        👉 Fibonacci Number
      
