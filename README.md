@@ -54,4 +54,7 @@
             👉 N-bonacci Numbers
 	        👉 Nth Tribonacci Number
 	        👉 Fibonacci Number
+### Day 22: 👇
+            👉 Minimum size Subarray sum[Naive and Efficient Solution]
+
      
