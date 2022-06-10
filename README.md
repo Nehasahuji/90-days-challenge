@@ -56,4 +56,6 @@
 	        👉 Fibonacci Number
 ### Day 22: 👇
             👉 Minimum size Subarray sum[Naive and Efficient Solution]
+### Day 23: 👇
+            👉 Equilibirium index of array [Naive and Efficient Solution]
 
