@@ -60,8 +60,8 @@
             👉 Equilibirium index of array [Naive and Efficient Solution]
 ### Day 24: 👇
             👉 Search(first occurence) of an Element in an array
-	👉 Binary Search Iterative and Recursive Approches
-	👉 count 1's in binary array
-	👉 Square root of number[Naive and Efficient Solution]
-	👉 Moore’s Voting Algorithm[Majority one and Majority2 solutions]
+	    👉 Binary Search Iterative and Recursive Approches
+	    👉 count 1's in binary array
+            👉 Square root of number[Naive and Efficient Solution]
+	    👉 Moore’s Voting Algorithm[Majority one and Majority2 solutions]
 
