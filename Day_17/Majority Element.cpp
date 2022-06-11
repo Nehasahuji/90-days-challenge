@@ -65,4 +65,38 @@ map<int,int> mp;
       return -1;
 }
 
+/*
+Approach 4: using Using Moore’s Voting Algorithm	
+Time complexity : O(n)
+Space complexity : O(1)
+*/
+
+ int majorityElement(int a[], int size)
+    {
+       int res=0,count=1;
+       for(int i=1;i<size;i++){
+           if(a[res]==a[i])
+            count++;
+           else
+            count--;
+            
+            if(count==0)
+              {
+                count=1;
+                res=i;
+              }
+       }
+       
+       count=0;
+       for(int i=0;i<size;i++){
+           if(a[res]==a[i])
+            count++;
+       }
+       
+       if(count>(size/2))
+            return a[res];
+       else
+            return -1;
+    }
+
 
