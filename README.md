@@ -75,4 +75,15 @@
 		👉 search in rotated array containing non distinct element
 ### Day 27: 👇
             👉 3Sum Closest
+<<<<<<< HEAD
 	
+=======
+### Day 28: 👇
+            👉 Binary Search
+	        👉 Guess Number higher or lower
+### Day 29: 👇
+	        👉 Peak index in mountain
+	        👉 search insert position
+### Day 30: 👇
+	        👉 Find Distance between two array values
+>>>>>>> 985e3e28f254189b125c79112e75565a074aed18
