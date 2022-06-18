@@ -75,9 +75,6 @@
 		👉 search in rotated array containing non distinct element
 ### Day 27: 👇
             👉 3Sum Closest
-<<<<<<< HEAD
-	
-=======
 ### Day 28: 👇
             👉 Binary Search
 	        👉 Guess Number higher or lower
@@ -86,4 +83,9 @@
 	        👉 search insert position
 ### Day 30: 👇
 	        👉 Find Distance between two array values
-
+### Day 31: 👇
+                    👉 Find smallest element greater than target
+	        👉 Bubble Sort
+	        👉 Insertion Sort
+	        👉 Selection Sort
+ 
