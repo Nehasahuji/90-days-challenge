@@ -84,7 +84,7 @@
 ### Day 30: 👇
 	        👉 Find Distance between two array values
 ### Day 31: 👇
-                    👉 Find smallest element greater than target
+                👉 Find smallest element greater than target
 	        👉 Bubble Sort
 	        👉 Insertion Sort
 	        👉 Selection Sort
