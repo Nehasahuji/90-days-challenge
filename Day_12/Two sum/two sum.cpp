@@ -18,7 +18,29 @@
       return res;
     }
     
-/* Two sum Optimised 
+/* Two sum Optimised  than before
+ Time complexity O(n*2)
+ Space Complexity O(1)
+ */
+    
+ vector<int> twoSum(vector<int>& nums, int target) {
+        vector<int> res;
+        
+        for(int i=0;i<nums.size();i++){
+            for(int j=i+1;j<nums.size();j++)
+            {
+                if(nums[i]==target-nums[j])
+                {   res.push_back(i);
+                    res.push_back(j);
+                    return res;
+                }
+            }
+        }
+        
+        return res;
+    }
+    
+/* Two sum Efficient Solution
  Time complexity O(n)
  Space Complexity O(n)
  */
