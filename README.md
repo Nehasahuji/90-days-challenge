@@ -89,13 +89,13 @@
 	        👉 Insertion Sort
 	        👉 Selection Sort
 ### Day 32: 👇
-	👉 Find first and last position of array
+	        👉 Find first and last position of array
             👉 Find Bad version
 ### Day 33: 👇 
-	👉 Merge two sorted array using extra space
+	         👉 Merge two sorted array using extra space
 ### Day 34: 👇
-	👉 Find 2 sum in sorted array
+	         👉 Find 2 sum in sorted array
 ### Day 33: 👇 
-	👉 Merge two sorted array using without using extra space
+	         👉 Merge two sorted array using without using extra space
 
  
