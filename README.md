@@ -95,7 +95,8 @@
 	         👉 Merge two sorted array using extra space
 ### Day 34: 👇
 	         👉 Find 2 sum in sorted array
-### Day 33: 👇 
+### Day 35: 👇 
 	         👉 Merge two sorted array using without using extra space
-
+### Day 36: 👇
+                 👉 Merge sort
  
