@@ -102,4 +102,7 @@
 ### Day 37: 👇
              👉 Intersection of two array using vector and merge sort
 	         👉 count intersection in two array naive and efficient
+### Day 38: 👇 
+             👉 Union of two array Naive and Efficient Solution
+	         👉 Non decreasing aaray
  
