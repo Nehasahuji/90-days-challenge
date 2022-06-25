@@ -99,4 +99,7 @@
 	         👉 Merge two sorted array using without using extra space
 ### Day 36: 👇
              👉 Merge sort
+### Day 37: 👇
+             👉 Intersection of two array using vector and merge sort
+	         👉 count intersection in two array naive and efficient
  
