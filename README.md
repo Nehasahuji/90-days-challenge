@@ -105,5 +105,11 @@
 ### Day 38: 👇 
              👉 Union of two array Naive and Efficient Solution
 	         👉 Non decreasing aaray
-### Day 38: 👇
+### Day 39: 👇
             👉 count Inversion of array Naive and Efficient Solution
+### Day 40: 👇
+            👉 IS Anagram 
+### Day 41: 👇
+            👉 Single Number
+	👉 Stock Buy and sell
+
