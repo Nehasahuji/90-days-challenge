@@ -112,4 +112,9 @@
 ### Day 41: 👇
             👉 Single Number
 	👉 Stock Buy and sell
+### Day 42: 👇
+            👉 Revised two sum in sorted array uisng two pointer
+	👉 searchAndInsert
+	👉 IsPErfectSquare
+	👉 MountainPeakElement
 
