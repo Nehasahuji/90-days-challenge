@@ -117,4 +117,15 @@
 		👉 searchAndInsert
 		👉 IsPErfectSquare
 		👉 MountainPeakElement
+### Day 43: 👇
+            👉 Quick Sort
+### Day 44: 👇
+            👉 isPalindrone
+### Day 45: 👇
+            👉 kth largest element naive and efficient solution
+### Day 46: 👇
+            👉 Flip and Invert Image
+		👉 Snake pattern 
+		👉 Sum of two Matrix
+		👉 Sum Triangles
 
