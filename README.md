@@ -141,3 +141,7 @@
 		👉 spiraaly traverse
 ### Day 51: 👇            
                         👉 search in matrix
+### Day 52: 👇
+                        👉 Search in sorted Row And Column Matrix
+### Day 53: 👇
+		👉 Two Sum[return index of elments whose sum is equal to target]
