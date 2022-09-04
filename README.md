@@ -128,4 +128,20 @@
 		👉 Snake pattern 
 		👉 Sum of two Matrix
 		👉 Sum Triangles
-
+### Day 47: 👇
+		👉 Two Sum
+### Day 48: 👇
+                        👉 LongestConsecutiveNumber
+### Day 49: 👇
+		👉 Finbonaachi series
+		👉 Transpose of Matrix
+### Day 50: 👇
+		👉 NextGreatestLetter
+		👉 Rotate a Matrix in clockwise and anticlockwise direction
+		👉 spiraaly traverse
+### Day 51: 👇            
+                        👉 search in matrix
+### Day 52: 👇
+                        👉 Search in sorted Row And Column Matrix
+### Day 53: 👇
+		👉 Two Sum[return index of elments whose sum is equal to target]
